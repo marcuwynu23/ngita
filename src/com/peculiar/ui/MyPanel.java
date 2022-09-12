@@ -7,6 +7,6 @@ public class MyPanel extends JPanel{
 	public MyPanel(){
 		super();
 		setForeground(Color.WHITE);
-		setBackground(new Color(34,34,34));
+		setBackground(new Color(24,24,24));
 	}
 }
